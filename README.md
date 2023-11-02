@@ -14,12 +14,11 @@ Before using the WeatherApp, you need to have the following:
 
 - Node.js: Make sure you have Node.js installed on your computer. You can download it from [nodejs.org](https://nodejs.org/).
 - Vue cli 3: You need to have vuecli 3 installed on your computer. You can install it by running the following command in your terminal:
+- Follow this guide, if you need help [cli.vuejs.org](https://cli.vuejs.org/guide/installation.html)
 
   ```bash
   npm install -g @vue/cli
   ```
-
-  (https://cli.vuejs.org/guide/installation.html)
 
 - OpenWeatherMap API key: You need an API key from [OpenWeatherMap](https://openweathermap.org/api) to fetch weather data. You can sign up for a free account and get an API key.
 
