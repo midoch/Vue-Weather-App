@@ -70,7 +70,3 @@ Follow these steps to run the WeatherApp on your local machine:
 2. The current weather details for the entered location will be displayed, including the location name, date, temperature, and weather description.
 
 3. You can search for different locations by entering a new query in the search bar.
-
-## Credits
-
-WeatherApp is built with Vue.js and uses the OpenWeatherMap API to fetch weather data.
