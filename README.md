@@ -13,8 +13,7 @@ VueWeatherApp is a simple web application that allows you to check the weather c
 Before using the WeatherApp, you need to have the following:
 
 - Node.js: Make sure you have Node.js installed on your computer. You can download it from [nodejs.org](https://nodejs.org/).
-- Vue cli 3: You need to have vuecli 3 installed on your computer. You can install it by running the following command in your terminal:
-- Follow this guide, if you need help [cli.vuejs.org](https://cli.vuejs.org/guide/installation.html)
+- Vue cli 3: You need to have vuecli 3 installed on your computer. You can install it by running the following command in your terminal. Follow this guide, if you need help [cli.vuejs.org](https://cli.vuejs.org/guide/installation.html)
 
   ```bash
   npm install -g @vue/cli
