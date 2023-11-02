@@ -34,7 +34,7 @@ Follow these steps to run the WeatherApp on your local machine:
 2. Navigate to the project directory:
 
    ```bash
-   cd weatherapp
+   cd Vue-Weather-App
    ```
 
 3. Install the project dependencies:
@@ -49,7 +49,7 @@ Follow these steps to run the WeatherApp on your local machine:
 
 5. Configure your API key:
 
-   Open the `src/App.vue` file and replace `"YOUR_API_KEY_HERE"` with your actual OpenWeatherMap API key:
+   Open the `src/App.vue` file and replace `"YOUR_API_KEY_HERE."` with your actual OpenWeatherMap API key:
 
    ```javascript
    api_key: "YOUR_API_KEY_HERE",
